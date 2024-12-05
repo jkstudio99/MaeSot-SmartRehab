@@ -1,0 +1,50 @@
+.exercise-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.video-container {
+    position: relative;
+    width: 100%;
+    max-width: 500px;
+    margin: 20px auto;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    min-height: 400px;
+}
+
+.exercise-title {
+    color: #0463FA;
+    margin-bottom: 1rem;
+}
+
+.exercise-description {
+    font-size: 1.1rem;
+    margin-bottom: 2rem;
+}
+
+.instruction-list {
+    text-align: left;
+    margin: 2rem 0;
+    padding: 1rem;
+    background: #f8f9fa;
+    border-radius: 8px;
+}
+
+.instruction-list li {
+    margin-bottom: 0.5rem;
+}
+
+.timer-container {
+    background-color: #f8f9fa;
+    padding: 1rem;
+    border-radius: 8px;
+    margin-bottom: 1.5rem;
+}
+
+.result-container {
+    text-align: center;
+    padding: 2rem;
+} 
